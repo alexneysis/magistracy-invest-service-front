@@ -1,0 +1,1 @@
+# magistracy-invest-service-front
